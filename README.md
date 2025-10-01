@@ -6,7 +6,7 @@
   Game dev
 - 🙌 if you want to collaborate on any of these topics, Dont hesitate to reach out
 - 🌱 I’m currently learning:
-  Web Development: Html/css, JavaScript
+  Reverse engineering and 3d rendering (web gl)
 - 📫 Contact me:
   Feel free to reach out to me for collaboration or just to say hi!
   Email: oi_charef@esi.dz
