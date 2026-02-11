@@ -37,4 +37,4 @@ Active member of the CTF team [**IrgaZEN**](https://ctftime.org/team/416916)
 
 ---
 
-Always curious, always learning — whether it’s digging into binaries, building scalable web apps, or exploring new exploits.
+Always curious, always learning .
