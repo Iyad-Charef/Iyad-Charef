@@ -1,21 +1,40 @@
-👋 Hi, I’m @Iyad-Charef — a second-year Computer Science student at ESI Algiers with a passion for cybersecurity, scripting, and reverse engineering.
 
-🛠️ I work with:  
-C, C++, Assembly, Python, Javascript  
-Linux OS, Ghidra, Radare2, BurpSuite
+Computer Science student at **ESI Algiers**, passionate about **Cybersecurity** and building websites as a hobby.  
+Active member of the CTF team [**IrgaZEN**](https://ctftime.org/team/416916)
 
-🔍 my skills include :  
-- Reverse engineering & and website exploitation
-- Wireless reconnaissance and CTFs
-- Web and Software Development  
-- Opengl graphics (with C++)
+---
 
-🌱 Currently learning:  
-- Advanced privilege escalation techniques  
-- Modular scripting for CTF workflows  
-- Reverse engineering pipelines (Ghidra, GDB, radare2)
+## 🛠️ Tech Stack
 
-📫 Let’s connect:  
-Email: oi_charef@esi.dz  
-LinkedIn: [Charef Iyad](https://www.linkedin.com/in/charef-iyad)  
-Instagram: [@CODING.GAMBIT](https://www.instagram.com/coding.gambit)
+### Programming Languages
+- C, Assembly, C++, Java, Python, JavaScript, Windows Api, 
+
+### Cybersecurity Tools
+- **Operating Systems**: Kali Linux  
+- **Reverse Engineering**: Ghidra, x64dbg  
+- **Exploitation & Debugging**: Pwntools, gdb  
+- **Web Security & Testing**: Burp Suite, Postman  
+
+### Web Development
+- **MERN Stack**: MongoDB, Express, React, Node.js  
+- **Django**: REST APIs and full-stack apps  
+- **Other Tools**: Docker, MongoDB Atlas  
+
+---
+
+## 🔍 Skills
+- Reverse engineering & binary exploitation  
+- Active CTF participant (I take losing seriously, but it fuels learning)  
+- Web and software development  
+- Automating workflows and scripting for technical challenges  
+
+---
+
+## 📫 Connect with Me
+- **Email**: oi_charef@esi.dz  
+- **LinkedIn**: [Charef Iyad](https://www.linkedin.com/in/charef-iyad)  
+- **Instagram**: [@Zedji.exe](https://www.instagram.com/zedji.exe)  
+
+---
+
+Always curious, always learning — whether it’s digging into binaries, building scalable web apps, or exploring new exploits.
