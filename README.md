@@ -24,7 +24,7 @@ Active member of the CTF team [**IrgaZEN**](https://ctftime.org/team/416916)
 
 ## 🔍 Skills
 - Reverse engineering & binary exploitation  
-- Active CTF participant (I take losing seriously, but it fuels learning)  
+- Active CTF participant (I take losing seriously...)  
 - Web and software development  
 - Automating workflows and scripting for technical challenges  
 
